@@ -19,4 +19,5 @@ this-clean:
 
 
 distclean: this-clean
+	-rm -rf src/toolkit
 	make -C src $@

@@ -1,0 +1,2 @@
+#Git ignores Config.in by default, it appears, but busybox needs this
+!/src/Config.in
